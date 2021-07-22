@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+data
+models
+runs 
+scores
+annotations.csv
+main.ipynb
+Untitled.ipynb
